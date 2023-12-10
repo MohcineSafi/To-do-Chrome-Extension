@@ -7,7 +7,6 @@ A simple Chrome extension for managing your to-do list.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -42,10 +41,6 @@ This Chrome extension provides a straightforward to-do list manager with basic f
 2. The to-do list will appear. Add, edit, or delete tasks as needed.
 
 3. Tasks are stored locally and persist even if you close the browser.
-
-## Screenshots
-
-![To-do Chrome Extension Preview](screenshot.jpg)
 
 ## Contributing
 
