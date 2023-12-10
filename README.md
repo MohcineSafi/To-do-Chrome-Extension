@@ -5,6 +5,7 @@ A simple Chrome extension for managing your to-do list.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Screenshot](#Screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -21,6 +22,10 @@ This Chrome extension provides a straightforward to-do list manager with basic f
 - Edit existing tasks.
 - Delete tasks.
 - Data persistence using Chrome's storage.
+
+## Screenshot
+
+![Extension Screenshot](Screenshot.jpg)
 
 ## Installation
 
